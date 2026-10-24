@@ -1,0 +1,6 @@
+{
+  "name": "نظام المتجر الذكي - نقاط البيع والمخزون",
+  "description": "نظام POS وإدارة مخزون متكامل باللغة العربية مع صلاحيات البائع والمدير وحفظ محلي والعملة بالدينار الجزائري",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
